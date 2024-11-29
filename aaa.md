@@ -11,4 +11,17 @@
    * 修饰形容词或副词
      在一些比较级结构等情况中，用来加强“独立”的程度。例如：“This region is more independently developed than others.（这个地区比其他地区发展得更独立。）”，“independently”修饰形容词“developed”，突出发展过程中的自主性。
    
+
+# 我没有朋友但我过的很爽
+
+* make pease with sty 	与什么和解
+  * I finally made peace with that after a long argument.”（在长时间的争论之后，我最终和那件事达成了和解。）
+
+* I think a lot of people might be able to relate to me.
+  * “might be able to”：是情态动词短语，在这里作谓语动词的一部分。“might”是情态动词，表示可能性，意为“可能，也许”，语气相对较弱；“be able to”表示“能够”，有“具备某种能力去做某事”的含义，二者结合起来表达一种推测的、有一定可能性的能力。
+  * “relate to”：是一个动词短语，意思是“与……有关联；与……产生共鸣；理解”等，在这里根据语境可理解为“与……产生共鸣”。
+* get along with  与什么相处
+* it's not that   并不是说，引导一个表语从句
+* “nowhere near”是一个常用短语，在这里作表语，其中“nowhere”表示“无处；哪里都不”，“near”表示“靠近；在……附近”，合起来就是“离……远；根本不在……附近”的意思
+* 
    
