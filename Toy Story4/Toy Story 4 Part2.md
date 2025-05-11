@@ -81,11 +81,46 @@
           - The team is going for the championship.（这个团队正在努力争取获得冠军。）
 27. you all right? 你没事吧
     1. “you all right” 这种表达不太完整，它的完整形式通常是 “Are you all right?”，意思是 “你还好吗？口语中，人们有时也会省略 “Are”，直接说 “You all right?”，意思不变，依然是表达对对方状况的关心和询问 。
-28. threaten.  Can't you see I'm threatening everyone?
+28. 
+
+    1. **“stand by you”**：更强调在困难或关键时刻坚定地站在某人身边，给予精神上或实际行动上的支持，有一种不离不弃、坚守的感觉，通常用于表达个人对另一个人的支持。例如：No matter what happens, I will stand by you.（无论发生什么，我都会支持你。）
+    2. **“we're here for you”**：则更侧重于传达一种随时在某人身边，为其提供帮助、支持和陪伴的信息，既可以用于个人之间，也可以用于群体对个人的表达，使用场景相对更广泛，不一定特指在困难时刻，也可以是日常生活中的一种关怀表达。例如：We're here for you if you need any help with your studies.（如果你学习上需要任何帮助，我们都会帮你。）
+    3. **I'm all for it.**：这个句子的意思是 “我完全赞成”“我全力支持”，但它与前两个句子的不同之处在于，它主要是针对某个提议、想法、计划或行为表示赞同和支持，而不是针对某个人在其困难或需要时给予陪伴和支持。例如：“Someone suggests going on a trip, and I'm all for it.”（有人提议去旅行，我完全赞成。
+
+29. threaten.  Can't you see I'm threatening everyone?
     1. 意思是 “威胁；恐吓；扬言要；预示凶兆；有…… 危险”。例如：He is threatening to quit his job.（他扬言要辞职。）The flood is threatening the whole village.（洪水正威胁着整个村庄。）
-29. i am warried about Bonnie. 
+30. i am warried about Bonnie. 
     1. “worried” 是 “worry” 的形容词形式，“be worried about” 是一个固定搭配，意为 “担心……；为…… 担忧”。
-30. get through it  
+31. get [sb] in trouble  
+
+    1. “get in trouble” 是一个常用的短语，意思是 “陷入麻烦；遇到困难；惹上麻烦”，强调某人因某种行为或情况而陷入不利或困难的境地。例如：
+       - If you don't finish your homework, you'll get in trouble with your teacher.（如果你不完成作业，你会惹上老师的麻烦。）
+       - He got in trouble for speeding on the highway.（他因在高速公路上超速而陷入麻烦。）
+
+32. get through it /get Bonnie in trouble
     1. **度过（困难时期等）；熬过**：强调经历艰难困苦后成功地挺过去。例如：It was a really tough year, but we managed to get through it.（那真是艰难的一年，但我们还是设法挺过来了。）
-31. Here we are. 我们到了
+33. I hate to sound like a broken record. 我也不想像复读机一样唠叨
+
+    1. hate to do sth 不想做某事，讨厌做某事
+    2. “broken record” 从字面上理解是 “坏掉的唱片”。在日常生活中，它是一个习语，用来形容某人反复说同样的话，就像坏掉的唱片会一直重复同一段声音一样，带有一种略带贬义的意味，可译为 “老调重弹”“喋喋不休” 或 “反复唠叨”。例如：
+
+    Stop being a broken record. You've told me the same thing over and over again.（别再像个老唱片似的了。你一遍又一遍地跟我说同一件事。）
+
+34. “What are you doing back there?” 的意思是：你在那边干什么呢？
+
+    在这个句子中，“What are you doing...” 是常用的询问对方正在做什么的句型，“back there” 表示 “在那边（指距离说话人有一定距离的地方）”，用来指明对方所处的位置。
+
+35. that's my big girl.  这才是我的乖女儿
+
+36. “We got to hurry” 意思是 “我们得快点了”。
+
+    这里 “got to” 相当于 “have to”，表示 “必须，不得不”，用于表达客观上的需要或要求，在口语中很常见。例如：We got to hurry, or we'll miss the bus.（我们得快点，不然就赶不上公交车了。 ）
+
+37. backpack 背包，书包，双肩包
+
+    1. I put my books in my backpack.
+
+38. “What was it you were saying, Woody?” 这句话的意思是 “你刚才说什么呢？”
+
+39. Here we are. 我们到了
 
