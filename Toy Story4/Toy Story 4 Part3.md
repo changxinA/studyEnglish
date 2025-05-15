@@ -31,7 +31,7 @@
 
 7. “course you can” 是 “of course you can” 的口语化表达，意思是 “你当然可以”。
 
-8. you could have benn confiscated
+8. you could have been confiscated
 
    1. 这是一个含有情态动词 “could have done” 结构的句子，表示 “本可以；本能够（但实际上没有），这里 “be confiscated” 是被动语态，意为 “被没收”。
    2. **例句**：You could have told me the truth earlier. I wouldn't have been so angry. **解释**：说明对方本有机会早点告诉我真相，但是却没有这么做，导致我现在很生气
@@ -41,7 +41,7 @@
    1. **“is crucial to”**：是谓语部分，“is” 是系动词，“crucial” ([ˈkruːʃ(ə)l]) 是形容词作表语，“to” 是介词，“be crucial to” 是一个固定搭配，意为 “对…… 至关重要”。
    2. “getting adjusted to” 的逻辑主语，“get adjusted to” 是一个固定短语，意为 “适应”，
 
-10. aren't you being a little about all this?
+10. aren't you being a little dramatic about all this?
 
     1. 这句话是一个反问句，意思是 “你对这一切是不是有点太夸张了呢？”，表达说话者认为对方对于所谈论的事情反应过度、表现得过于戏剧化。
     2. dramatic  戏剧表演的；夸张的;引人注目的，给人深刻印象的；
