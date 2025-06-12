@@ -12,7 +12,7 @@
    1. breath /breθ/
    2. breaths /breðz/
 5. settle down  冷静
-6. my guys are veterans.    “Veterans” 是名词 “veteran”   [ˈvetərənz] 的复数形式，具体如下：
+6. my guys are veterans. They'll hang in there. 我的伙计们身经百战，他们可以的/他们可以坚持下去的   “Veterans” 是名词 “veteran”   [ˈvetərənz] 的复数形式，具体如下：
    - **释义**：指在军队中服过役的人，即 “退伍军人”“老兵”；也可指在某个领域有丰富经验的人，即 “经验丰富的人”“老手”。
 7. just keep them calm until we get word
    1. get word  “得到消息；获得信息；听说”。
@@ -23,10 +23,11 @@
          1. ：Keep calm even in the face of danger.（即使面临危险也要保持镇静。）；
          2. “stay/keep calm”（保持镇静），“a calm sea”（平静的海面），“a calm voice”（平静的声音）等。
       3. 名词 意思是 “平静；安静；宁静；镇静”。例如：There was a calm on the sea.（海上风平浪静。）；
-8. bonnie's done with breakfast
-   1. “be done with sth.” 是一个固定短语，意思是 “完成了某事；做完了某事” ，
-   2. I am done with my homework,
-   3. She will be done with the report by the end of this week.（她将在本周末完成这份报告。）
+8. we're on, bonnie's done with breakfast
+   1. we're on  在这里表意较为模糊，常见于口语中表示 “（约定、活动等）确定、进行” ，“we are on” 可理解为 “我们准备好了”“我们开始了” 等意思 。
+   2. “be done with sth.” 是一个固定短语，意思是 “完成了某事；做完了某事” ，
+   3. I am done with my homework,
+   4. She will be done with the report by the end of this week.（她将在本周末完成这份报告。）
 9. “any minute now” 是一个常用的短语，意思是 “随时；马上；在任何时刻”，表示某件事情可能很快就会发生。
    1. The bus should be here any minute now.（公交车应该马上就到了。）
    2. she will be back any second. 

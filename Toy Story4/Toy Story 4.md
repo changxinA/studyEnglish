@@ -44,41 +44,43 @@
 13. I'm glad it all worked out.  很高兴一切都很顺利
 14. And the box gets taken away
     1. **“gets taken away”**：“gets” 在这里是系动词（在一般现在时的被动语态中，“get + 过去分词” 结构也可以表示被动含义，与 “be + 过去分词” 结构有相似之处），“taken” 是 “take” 的过去分词，“get taken” 构成被动语态，“away” 是副词，和 “take” 构成短语 “take away”，意思是 “拿走；带走”，“gets taken away” 整体作句子的谓语部分，意思是 “被拿走” 。
+    1. Sometimes they get left in the yard. 是同样的用法，get left 相当于be left
 15. drive safe/safely  安全开车 口语中一般使用safe，但严格来说不是正确的
 16. there you are
     1. **（用于找到某人或某物时）你在这儿啊；它在这儿啊**：
     2. **（表示某人或某事达到某种状态或结果）你看；这就对了**：
        1. “You just need to follow these steps, and there you are—you've finished the task.”（你只要按照这些步骤来，你看，你就完成任务了。）；
        2. “You finally made it! There you are.”（你终于成功了！这就对了。）
-17. disney presents  迪士尼出品
+17. get inside. 进入，进去，强调进入某个空间内部的动作，特定场景下，“快进屋吧”
+18. disney presents  迪士尼出品
     1. present **推出；展示；呈现 ** [ˈprez(ə)nt; prɪˈzent]
     2. **present a challenge**：提出挑战；构成挑战。例如：The new project presents a huge challenge to the team.（这个新项目给团队带来了巨大的挑战。）
     3. **present an opportunity**：提供机会。例如：This situation presents a good opportunity for us to expand our business.（这种情况为我们提供了一个拓展业务的好机会。）
     4. **present with**：赠送；给予。例如：The school presented him with a trophy.（学校送给他一个奖杯。）
     5. **present a view**：提出观点；表达看法。例如：He presented his view on the issue at the conference.（他在会议上提出了自己对这个问题的看法。）
     6. **present a solution**：提出解决方案。例如：They presented a feasible solution to the problem.（他们提出了一个可行的问题解决方案。）
-18. you've got a friend in me.  我是你的好朋友
+19. you've got a friend in me.  我是你的好朋友
     1. **in me**：是一个介词短语，作后置定语，修饰 “a friend”，表示 “在我这里” 或 “我是（你的）一个朋友”，用来进一步说明 “朋友” 的具体所指，即 “我就是你可以当作朋友的人”。
     2. “in me” 在句中作后置定语，用来修饰 “a friend”，对 “朋友” 进行限定和补充说明，in” 在这里表示 “在…… 之中”“在…… 里面” 的意思，“in me” 从字面上理解就是 “在我之中”，引申为 “在我这里”“在我身上”，表示一种内在的、个人的属性或关系
     3.  “You can find a confidant in me”（你可以把我当作知己）
     4. “She has a reliable partner in me”（她有我这个可靠的伙伴）
     5. She saw a kindred spirit in me. 她在我身上看到了一种志同道合的感觉  kindred spirit  志趣相投
-19. a pixar animation/ [ˌænɪˈmeɪʃn]/ studios film  皮克斯动画工作室的电影
-20. ride 'em , cowboy 是一个常用的英语表达，字面意思是 “骑上它们，牛仔”
+20. a pixar animation/ [ˌænɪˈmeɪʃn]/ studios film  皮克斯动画工作室的电影
+21. ride 'em , cowboy 是一个常用的英语表达，字面意思是 “骑上它们，牛仔”
     1. “em” 是 “them” 的缩写。在 “Ride 'em, cowboy” 这句话中，“Ride 'em” 相当于 “Ride them”，“them” 指代前面提到的马匹或者是泛指牛仔需要驾驭的对象。这种缩写形式在口语和一些非正式的书面表达中较为常见，使语言更加简洁、随意。
     2. **鼓励或激励**
     3. **一种轻松的调侃或玩笑**
     4. **作为一种比喻或象征**：在更广泛的语境中，它可以表示鼓励某人去面对困难或挑战，像牛仔勇敢地驾驭马匹一样，去驾驭某种局面或克服障碍
-21. when the road looks rough ahead  道路坎坷困难多
+22. when the road looks rough ahead  道路坎坷困难多
     1. rough ahead 前路崎岖
     2. When the road looks rough/[rʌf]/ ahead, we should stay optimistic and keep moving forward.” 中，意思是 “当前路看起来崎岖不平时，我们应该保持乐观并继续向前”。
-22. you're miles and miles from your nice warm bed  温馨的家 远在千里之外。
+23. you're miles and miles from your nice warm bed  温馨的家 远在千里之外。
     1.  这里 “miles” 用复数形式，“miles and miles” 表示 “很远的距离；许多英里”，用来强调距离的遥远
-23. you just remember what your old pal said  记住我这个老朋友说过的话
+24. you just remember what your old pal said  记住我这个老朋友说过的话
     1. **Pal**：在日常对话、轻松的场合或男性之间使用较为频繁。例如：“Hey, pal, what's up?”（嘿，哥们儿，怎么了？）
     2. **Friend**：可用于各种正式和非正式的场合。比如：“I have a lot of friends at school.”（我在学校有很多朋友。）在书面语和正式的表达中，“friend” 更为常见，如在商务信函、正式的社交介绍中。
-24. to infinity /[ɪnˈfɪnəti]/ and beyond 向着无限，超越无限/飞向宇宙 浩瀚无垠
-25. Now, some other folks might be a little bit smarter than i am  其他人获取比我聪明
+25. to infinity /[ɪnˈfɪnəti]/ and beyond 向着无限，超越无限/飞向宇宙 浩瀚无垠
+26. Now, some other folks might be a little bit smarter than i am  其他人获取比我聪明
     1. 主句的谓语动词是 “be” 动词（might be），表示状态，所以在比较状语从句中用 “am” 来与主句的 “be” 动词相对应，以明确比较的是 “其他人和我在聪明程度这一状态上的差异”。
     2. **含义**
        1. “folks” 通常指 “人们”“亲属”“大伙儿”，更强调群体中的个体之间有着某种关联或共同特征，有时会带有一种亲切、口语化的感觉，也可用来指特定地区或群体的人。例如：“The folks in this neighborhood are very helpful.”（这个街区的人都很乐于助人。）
@@ -86,10 +88,10 @@
     3. **语法**
        1. “folks” 是可数名词的复数形式，常以复数形式出现，后面的谓语动词也用复数形式。例如：“Folks like to gather here in the evenings.”（人们喜欢在晚上聚集在这里。）
        2. “people” 本身是复数名词，当表示 “人们”“人民” 时，谓语动词用复数形式。例如：“People are always looking for ways to improve their lives.”（人们总是在寻找改善生活的方法。）当 “people” 表示 “民族” 时，是可数名词，其复数形式为 “peoples”。例如：“There are many different peoples in Africa.”（非洲有许多不同的民族。）
-26. you're my favorite deputy /[ˈdepjuti]/
+27. you're my favorite deputy /[ˈdepjuti]/
     1. deputy  **副手；副职；代理**：指在一个组织、机构或职位中，辅助正职领导工作的人。例如：“He is the deputy mayor of the city.”（他是这个城市的副市长。）
-27. as the years go by  随着时间的流逝/岁月流逝
-28. they've escaped and they're headed right for us
+28. as the years go by  随着时间的流逝/岁月流逝
+29. they've escaped and they're headed right for us
     1. head 动词 **朝（某方向）行进**：如 “They headed north.”（他们向北行进。）
     2. right adv  地方、位置或时间）正好，就在；直接地，径直地；一直地，完全地；
        1.   The wind was right in our faces.（风迎面直吹我们的脸。）
